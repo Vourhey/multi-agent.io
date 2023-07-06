@@ -1,17 +1,17 @@
 ---
 title: Feecc
-subtitle: Production Quality Control Platform
-cover: "./images/feecc/cover.jpg" 
-description: "Feecc is a platform that allows enterprises to build and customize their own quality control systems for products or services to suit their needs. 
+subtitle: Monitoring System for Production Processes
+cover: "./images/feecc/cover.jpg"
+description: "Feecc is a platform that allows enterprises to build and customize their own monitoring and control system for production or service processes to suit their needs.
 <br>
-By means of web3 technologies and a set of flexible software modules, Feecc enables auditing the employees' access to the workplace and mining all data about work processes. The information is stored in an immutable and secure storage with simple access for the QC department. 
+By means of web3 technologies and a set of flexible software modules, Feecc enables auditing the employees' access to the workplace and mining all data about work processes. The information is stored in an immutable and secure storage with simple access for the QC department.
 <br>
 Thanks to Feecc, the enterprise can not only digitize its processes and get rid of annoying bureaucracy and lawsuits, but also attract the attention of new consumers to the product, increasing trust in it."
 published: true
 locale: 'en'
 ---
 
-## Features 
+## Features
 
 <ma-section title="Clear employee-product linkage">
 Feecc tracks all stages of the work process by video recording, logging data from peripheral devices and authorizing employee access. Platform supports any sequential workflow, including long-term or intermittent operations.
@@ -22,18 +22,18 @@ All digital traces of the work process are consolidated into a single product pa
 </ma-section>
 
 <ma-section title="Various peripherals">
-Feccc supports standard digital I/O interfaces for connecting various devices (video cameras, scanners, printers, etc.) 
+Feccc supports standard digital I/O interfaces for connecting various devices (video cameras, scanners, printers, etc.)
 </ma-section>
 
 <ma-section title="Secured by distributed techs">
-Feecc uses secure data storage based on content-addressable architecture and distributed ledger to ensure that the collected workflow data is reliable and authentic. 
+Feecc uses secure data storage based on content-addressable architecture and distributed ledger to ensure that the collected workflow data is reliable and authentic.
 </ma-section>
 
 <ma-section title="Flexibility & dev support">
 Systems with Feecc can be easily customized for a specific work process with the required equipment. The development team will guide you through the entire configuration cycle and integrate Feecc to your work process.
 </ma-section>
 
-## Technical Details 
+## Technical Details
 
 <g-image src="./images/feecc/cover.jpg"/>
 
@@ -62,7 +62,7 @@ Dataloging all metadata with product passports, video recordings, telemetry to d
 </ma-section>
 
 <ma-section title="Data storage">
-IPFS / Pinata for content-addressable p2p access to data; private node on request. 
+IPFS / Pinata for content-addressable p2p access to data; private node on request.
 </ma-section>
 
 ## Additional Services
@@ -71,7 +71,7 @@ IPFS / Pinata for content-addressable p2p access to data; private node on reques
 
 A module for viewing, analysis and management of work processes scenarios:
 
-* Information on the work stages 
+* Information on the work stages
 * Browsing employee information and managing their roles and access
 * Browsing of digital passports and their status
 
@@ -93,7 +93,7 @@ https://youtu.be/fA1DfrQnKjk
     <ma-button href="https://github.com/Multi-Agent-io/feecc-analytics-backend"><img src="./images/shared/GitHub.png"/><span>Feecc Dashboard</span></ma-button>
 </ma-line>
 
-## Partners 
+## Partners
 
 <ma-line>
 
@@ -102,4 +102,3 @@ https://youtu.be/fA1DfrQnKjk
 [Endo Stars LLC](http://endo-stars.ru/en/) — the leading company on the Russian flexible endoscopic market.
 
 </ma-line>
-
